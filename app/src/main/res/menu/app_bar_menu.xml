@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miToggle"
+        android:icon="@drawable/ic_toggle_foreground"
+        android:title="@string/toggle_layout"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/miSortByYear"
+        android:title="@string/sort_by_year"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/miSortByRating"
+        android:title="@string/sort_by_rating"
+        app:showAsAction="never" />
+
+
+</menu>

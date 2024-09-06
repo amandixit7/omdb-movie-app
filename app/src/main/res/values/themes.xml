@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocoApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#0F9D58</item>
+    </style>
+
+    <style name="Theme.LocoApp" parent="Base.Theme.LocoApp" />
+</resources>

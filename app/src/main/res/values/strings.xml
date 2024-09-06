@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocoApp</string>
+    <string name="toggle_layout">Toggle Layout</string>
+    <string name="sort_by_year">Sort By Year</string>
+    <string name="sort_by_rating">Sort By Rating</string>
+    <string name="enter_search_string">Enter Search String</string>
+</resources>
